@@ -1,0 +1,27 @@
+{
+  "name": "taller_2_aca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHERNANDEZ-DEV/taller_2_ACA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHERNANDEZ-DEV/taller_2_ACA/issues"
+  },
+  "homepage": "https://github.com/CHERNANDEZ-DEV/taller_2_ACA#readme",
+  "description": "",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "commitlint-config-gitmoji": "^2.3.1",
+    "husky": "^9.1.7"
+  }
+}
